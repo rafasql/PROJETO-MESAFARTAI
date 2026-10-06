@@ -1,0 +1,13 @@
+PROJETO MESAFARTAI
+ETAPA 1 – INICIALIZAÇÃO DO PROJETO
+
+Nesta etapa serão desenvolvidas as bases do projeto MESAFARTAI.
+
+Atividades:
+
+- Criar o repositório público no GitHub.
+- Criar a documentação inicial do projeto.
+- Criar a identidade visual.
+- Criar o banco de dados SQLite.
+- Inserir dados de teste.
+- Executar o banco de dados sem erros.
